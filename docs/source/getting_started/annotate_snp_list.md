@@ -8,7 +8,7 @@ Set "**SNP Annotator (My SNP List)**" in Search.
 
 Set "**All**" to search all Gene models available.
 
-Tick the box to "**Include gene interactions (RiceNetv2, PRIN)**" and "**Gene Ontology**" annotations. You may choose to add more to gather mor annotations for this region.
+Tick the box to "**Include gene interactions (RiceNetv2, PRIN)**" and "**Gene Ontology**" annotations. You may choose to add more to gather more annotations for this region.
 
 ```{image} /_static/image15.png
 :alt:
@@ -19,32 +19,10 @@ Tick the box to "**Include gene interactions (RiceNetv2, PRIN)**" and "**Gene On
 <br>
 
 
-The result should be a table which contains the annotations that can be grouped by:
+The result should be a table which contains the annotations that can be grouped by marker position, gene locus, or by QTL.
 
-1.  Marker/Position
-
-```{image} /_static/image16.png
+```{image} /_static/8_annotation.png
 :alt: Marker/Position
-:width: 600px
-:class: zoomable
-:align: center
-```
-<br>
-
-2.  Gene Locus
-
-```{image} /_static/image17.png
-:alt: Gene Locus
-:width: 600px
-:class: zoomable
-:align: center
-```
-<br>
-
-3.  QTL
-
-```{image} /_static/image18.png
-:alt: QTL
 :width: 600px
 :class: zoomable
 :align: center

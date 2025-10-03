@@ -10,13 +10,13 @@ Set Search to: "**Gene set/networks**".
 
 Set Gene Models to: "**All**".
 
-Set the My Locus List to: "**qDTF2_genes**".
+Set the My Locus List to: "**PHS-genelist**".
 
 Tick "**Ricenetv2 direct neighbors**" and "**AgriGO**".
 
 Click on "**Gene set/enrichment**".
 
-```{image} /_static/image20.png
+```{image} /_static/10_genesetenrichment.png
 :alt:
 :width: 600px
 :class: zoomable
